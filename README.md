@@ -62,7 +62,7 @@ Smith, R.L., O’Connell, K., Athanasiu, L. et al. (2020, June 19). Identificati
 ]
 
 ### 6. Appendix A: R Code <a name="appendix-a--r-code"></a>
-images and code provided in file
+Images and code provided in file
 
 
 
