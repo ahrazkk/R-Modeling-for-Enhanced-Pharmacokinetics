@@ -6,7 +6,8 @@ This project, driven by R modeling, dissects drug metabolism dynamics to refine 
 
 **MATH 3MB3 - Introduction to Modelling**  
 **Anum Amin**,
-**Ahraz Kibria**
+**Ahraz Kibria**,
+**Avan Mamende**
 **April 19, 2024**
 
 ---
